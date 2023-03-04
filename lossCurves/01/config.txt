@@ -1,0 +1,6 @@
+learning rate: 1e-04
+layers:'head' epochs: 10
+layers:'all' epochs: 8
+augnentation:None
+weight decay:unchanged(from config )
+backbone: resnet50
